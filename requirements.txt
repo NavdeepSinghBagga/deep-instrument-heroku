@@ -1,5 +1,5 @@
 jsonpickle
-Flask==0.10.1
+Flask
 gevent
 gunicorn
 h5py
