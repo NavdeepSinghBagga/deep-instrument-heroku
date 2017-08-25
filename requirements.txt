@@ -6,4 +6,6 @@ h5py
 keras
 numpy
 pandas
+scikit-learn
+soundfile
 tensorflow
