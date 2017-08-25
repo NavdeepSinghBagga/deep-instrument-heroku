@@ -1,5 +1,5 @@
 jsonpickle
-Flask
+Flask==0.10.1
 gevent
 gunicorn
 h5py
@@ -8,4 +8,4 @@ numpy
 pandas
 scikit-learn
 soundfile
-tensorflow
+tensorflow==0.10
