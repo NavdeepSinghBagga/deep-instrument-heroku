@@ -8,4 +8,4 @@ numpy
 pandas
 scikit-learn
 soundfile
-tensorflow==0.10
+tensorflow
